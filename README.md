@@ -6,7 +6,7 @@ I'm a passionate self-taught full stack web developer. I'm a very enthusiastic t
 
 Skills: Angular / React / NestJS / TypeScript / JS / HTML / CSS
 
-- 🔭 I’m currently working on BlackIce website 
+- 🔭 I’m currently working on https://blackice-alpclub.ru/
 - 🌱 I’m currently learning ReactJS NuxtJS 
 - 📫 How to reach me: vladis.sysoev@gmail.com 
 - 😄 Pronouns: No pain, no gain 
