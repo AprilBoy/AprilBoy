@@ -1,6 +1,8 @@
 ### Hello there 👋, my name is Vladislav
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="500" height="320" />
 #### I am JavaScript Developer
-![I am JavaScript Developer](https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif)
+![I am JavaScript Developer]
+
 
 I'm a passionate self-taught full stack web developer. I'm a very enthusiastic to create awesome interfaces. Interested in UI/UX
 
