@@ -1,8 +1,8 @@
-### Hi there 👋, my name is Vladislav
+### Hello there 👋, my name is Vladislav
 #### I am JavaScript Developer
 ![I am JavaScript Developer](https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif)
 
-I'm very enthusiastic to create awesome interfaces. Interested in UI/UX 
+I'm a passionate self-taught full stack web developer. I'm a very enthusiastic to create awesome interfaces. Interested in UI/UX
 
 Skills: Angular / React / NestJS / TypeScript / JS / HTML / CSS
 
