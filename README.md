@@ -10,7 +10,7 @@ I'm a passionate JavaScript developer. I'm a very enthusiastic to create awesome
 Skills: Angular / React / NestJS / TypeScript / JS / HTML / CSS
 
 - 🔭 I’m currently working on https://blackice-alpclub.ru/
-- 🌱 I’m currently learning ReactJS NuxtJS 
+- 🌱 I’m currently learning ReactJS NextJS 
 - 📫 How to reach me: vladis.sysoev@gmail.com 
 - 😄 Pronouns: No pain, no gain 
 
