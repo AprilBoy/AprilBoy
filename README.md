@@ -5,7 +5,7 @@
 
 
 
-I'm a passionate JavaScript developer. I'm a very enthusiastic to create awesome interfaces. Interested in UI/UX
+I'm a passionate JavaScript developer. I'm a very enthusiastic to create awesome Applications. Interested in PWA, UI/UX
 
 Skills: Angular / React / NestJS / TypeScript / JS / HTML / CSS
 
