@@ -4,8 +4,8 @@
 #### I am JavaScript Developer
 
 
-
-I'm a passionate JavaScript developer. I'm a very enthusiastic to create awesome Applications. Interested in PWA, UI/UX
+Hello there! I’m enthusiastic frontend developer, have experience for 5 years of UI/UX and JavaScript development. I never give up on difficult tasks.
+Most of my developers experience I have been developing products for the financial sector ,retail and telecom
 
 Skills: Angular / React / NestJS / TypeScript / JS / HTML / CSS
 
