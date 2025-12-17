@@ -10,7 +10,7 @@ Most of my developers experience I have been developing products for the financi
 Skills: Angular / React / NestJS / TypeScript / JS / HTML / CSS
 
 - 🔭 I’m currently working on     
-https://blackice-alpclub.ru/ 
+http://nika-project.ru/ 
 - 🌱 I’m currently learning ReactJS NextJS 
 - 📫 How to reach me: vladis.sysoev@gmail.com 
 - 😄 Pronouns: No pain, no gain 
